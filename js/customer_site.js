@@ -3,11 +3,7 @@ const CUSTOMER_SITES = {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '魔都资源',
     }
-    feifan: {
-        api: 'https://cj.ffzyapi.com/api.php/provide/vod/',
-        name: '非凡影视',
-    }
-};
+  };
 
 // 调用全局方法合并
 if (window.extendAPISites) {
