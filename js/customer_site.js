@@ -1,7 +1,11 @@
 const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
+    modu: {
+        api: 'https://www.mdzyapi.com/api.php/provide/vod',
+        name: '魔都资源',
+    }
+    feifan: {
+        api: 'https://cj.ffzyapi.com/api.php/provide/vod/',
+        name: '非凡影视',
     }
 };
 
