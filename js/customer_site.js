@@ -8,7 +8,7 @@ const CUSTOMER_SITES = {
         name: '非凡影视',
         detail: "http://ffzy5.tv",
     }
-     modu: {
+     didi: {
         api: 'https://api.ddapi.cc/api.php/provide/vod/?ac=list',
         name: '滴滴资源站',
     }
