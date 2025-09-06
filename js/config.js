@@ -129,7 +129,7 @@ const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
-        detail: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        detail: 'http://caiji.dyttzyapi.com/',
     },
     wujin: {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
