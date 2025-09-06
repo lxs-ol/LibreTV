@@ -27,6 +27,15 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     }
+        feifan: {              
+        api: 'http://ffzy5.tv/api.php/provide/vod',
+        name: '非凡影视',
+        detail: "http://ffzy5.tv",
+    }
+       didi: {
+        api: 'https://api.ddapi.cc/api.php/provide/vod/?ac=list',
+        name: '滴滴资源站',
+    }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
