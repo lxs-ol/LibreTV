@@ -123,7 +123,7 @@ const API_SITES = {
         name: '樱花资源'
     },
     baidu: {
-        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        api: 'https://api.apibdzy.com/api.php/provide/vod/?ac=list',
         name: '百度云资源'
     },
     dyttzy: {
